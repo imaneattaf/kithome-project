@@ -1,0 +1,15 @@
+.cardbtn  {
+	background-color:rgba(34, 74, 43, 0.96); 
+	padding: 15px 10px;
+	border-radius: 0px;
+	color: white;
+	font-weight: bold;
+	margin: 7px;
+	justify-content: space-between;
+	margin: 34px;
+	text-decoration: none;
+    font-size: 20px;
+	text-align: right;
+	float:right;
+
+}
